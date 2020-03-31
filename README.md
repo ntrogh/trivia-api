@@ -2,4 +2,4 @@ This is a demo application of how to create [Azure Functions using Node.js](http
 
 The data is a few questions from the [Open Trivia Database](https://opentdb.com/).
 
-![Build Status](https://github.com/ntrogh/trivia-api/workflows/trivia-deploy/badge.svg)
+![](https://github.com/ntrogh/trivia-api/workflows/trivia-deploy/badge.svg)
